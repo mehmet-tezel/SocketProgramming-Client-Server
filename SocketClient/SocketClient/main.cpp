@@ -1,9 +1,7 @@
 /*
-*    This software is owned by Mehmet Tezel.
+*    This software is owned by unxp3cted.
 *    You can change and use as you wish.
 *    (Provided that the source is specified)
-*    https://github.com/TzLcorp
-*    TezeL Corporation
 */
 
 #include <Windows.h>
